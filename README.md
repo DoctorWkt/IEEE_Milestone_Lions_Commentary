@@ -32,6 +32,11 @@ The on-going status of the license campaign, with dates, is
 The petition sent to SCO, with all e-mail addresses, is
 [here](https://minnie.tuhs.org/PUPS/petition.html)
 
+A more detailed look at the license campaign is
+[here](https://wiki.tuhs.org/doku.php?id=events:free_licenses)
+with copies of the e-mail between Warren Toomey and Dion Johnson
+[here](https://www.tuhs.org/Archive/Documentation/Emails/dionj_wkt.html).
+
 ## 4. Western Electric / AT&T Licensing Memos (1977-1978)
 
 ## 5. Early International Samizdat Artifacts
