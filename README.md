@@ -26,8 +26,9 @@ wkt: Table of contents of all the above UNSW files are now
 
 Paul asks: _We have access to physical copies of the Third Printing of both volumes  *Source Code* (in its original pink cover) and *Commentary* (in its original orange cover), both dated 1977. We would welcome community confirmation that these UNSW Third Printing volumes constitute sufficient primary physical evidence for the 1977 Lions books in the IEEE dossier._
 
-wkt: I have physical copies of both Lions' volumes, both dated
-[June 1977](Images/wkt_lions_copy.jpg).
+wkt: I have physical copies of both Lions' volumes, both dated 1977, see
+[Images/wkt_lions_orange.jpg](Images/wkt_lions_orange.jpg) and
+[Images/wkt_lions_pink.jpg](Images/wkt_lions_pink.jpg).
 
 ## 3. 1994-1998 PUPS / SCO / P2P Archival Records
 
