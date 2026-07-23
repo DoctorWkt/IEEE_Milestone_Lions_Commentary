@@ -14,15 +14,21 @@ so that it can be merged with the version on Github.
 
 ## 1. UNSW Tape Archive Verification (`UNSW/88` & `UNSW/106`)
 
+Paul asks: _Has anyone inspected the file trees of the `UNSW/88` or `UNSW/106` distributions in the TUHS archive for early administrative tools (such as `give`, `submit`, or `ausam` modules) to confirm when these utilities first entered the UNSW codebase?_
+
 wkt: Copies of the tapes that Paul refers to can be found in the Unix Archive
 at [https://www.tuhs.org/Archive/Distributions/UNSW/](https://www.tuhs.org/Archive/Distributions/UNSW/).
 
 ## 2. Verification of 1977 Physical Artifacts
 
+Paul asks: _We have access to physical copies of the Third Printing of both volumes  *Source Code* (in its original pink cover) and *Commentary* (in its original orange cover), both dated 1977. We would welcome community confirmation that these UNSW Third Printing volumes constitute sufficient primary physical evidence for the 1977 Lions books in the IEEE dossier._
+
 wkt: I have physical copies of both Lions' volumes. I need to dig them out
 and determine the date of printing.
 
 ## 3. 1994-1998 PUPS / SCO / P2P Archival Records
+
+Paul asks for: _Any surviving correspondence, memos, or Usenet petition logs from the 1994-1996 Salus/Lions/Ritchie Novell-SCO negotiations, or the 1996-1998 Toomey/Schultz/Dion Johnson $100 Ancient UNIX licence campaign, to further enrich our documentation of early UNIX preservation milestones._
 
 ### Toomey/Schultz/Dion Johnson $100 Ancient UNIX licence campaign
 
@@ -39,8 +45,13 @@ with copies of the e-mail between Warren Toomey and Dion Johnson
 
 ## 4. Western Electric / AT&T Licensing Memos (1977-1978)
 
+Paul asks for: _Primary copies or scans of 1977-1978 correspondence between Bell Labs / Western Electric and UNSW regarding the prohibition of external commentary distribution, or internal Bell Labs memos referencing Lions' book._
+
 ## 5. Early International Samizdat Artifacts
+
+Paul asks for: _Primary documentation or recollections regarding early samizdat distribution timelines at international universities (e.g. early Berkeley CS 162 syllabi, UK/European Unix groups, or Japanese translation initiatives prior to the 1998 ASCII release)._
 
 ## 6. Supporting Statements & Endorsements
 
+Paul asks for: _Short supporting statements or endorsement letters from Unix pioneers, early AUUG founders, or academics who used the *Commentary* in university courses during the 1970s-1990s to attach to the official IEEE History Committee submission package._
 
