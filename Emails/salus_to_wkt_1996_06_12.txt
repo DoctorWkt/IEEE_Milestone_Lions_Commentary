@@ -1,0 +1,28 @@
+Date: Fri, 12 Jul 1996 05:14:02 -0700 (PDT)   
+From: "Peter H. Salus" <peter@usenix.ORG>       
+To: wkt@csadfa.cs.adfa.oz.au              
+Cc: peter@usenix.ORG
+Subject: Re:  Lions Commentary?
+
+Warren,
+Your note fills me with guilt.            
+
+However, the Lions book (which should be out in a few
+weeks; it really *is* in production) was negotiated by            
+me and then ``agreed'' to by Dan Doernberg, the publisher
+(dand@commons.ip.portal.com).             
+
+Dennis Ritchie and I each wrote to Doug Michels and Mike             
+Tilson (both VPs at SCO and old UNIX hands) and they            
+told their lawyers that it was ``OK.''  Thereafte, it
+was only a matter of drafting and faxing back and forth.
+
+Why don't you refer Mr. Johnson to Michels and/or
+Tilson, referencing the V6 permission?
+
+Gosh!  A source license!  No, I've always ridden
+on the shoulders of my employers -- and in 1969, when
+I had a 4K PDP8 with paper tape, those were the
+University of Toronto.
+
+Peter

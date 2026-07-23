@@ -1,0 +1,37 @@
+Date: Sun, 22 Oct 1995 23:48:25 EDT
+From: dmr@plan9.att.com
+To: wkt@csadfa.cs.adfa.oz.au
+Cc: ken@plan9.att.com
+Subject: Re: Queries on PDP Unix status     
+
+The crucial question is,
+   ... a contact for someone who can clarify                
+   the distribution status of such things as the old on-line manuals/papers,
+   and the Lions commentary (not the src code booklet).
+
+Unfortunately there is no simple answer.  I've been somewhat involved
+in one aspect of this: the Lions commentaries.  Here is the story with
+them.
+
+John is interested in republishing the source and the commentary
+as a historical document and is being aided by Peter Salus (peter@usenix.org)
+and Berny Goodhart.  To shorten a long story, AT&T is willing to allow this,
+Novell was hesitant, and SCO seems almost ready to allow it.
+(Background: the transfer of Unix stuff from AT&T to USL,
+then to Novell, mentioned only System III and derivatives. 
+However there is also language about "prereleases" of System III,
+which might possibly apply to the 6th edition even though it
+is some 6-7 years earlier.  Neither Novell nor SCO (about-to-be
+owner of the IP) are worried about people actually using the          
+6th edition in competition with them; they wonder, in a         
+generally lawyer-like way, whether publishing the
+"trade secrets" in the code might in some way compromise   
+their current ownership.)
+
+At any rate, it's at least possible that SCO will give John, Peter
+etc. the go-ahead.  Certainly Lions owns the primary rights
+in his commentaries themselves.
+
+...
+
+        Dennis
