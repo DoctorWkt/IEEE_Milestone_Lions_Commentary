@@ -6,7 +6,7 @@ recognize John Lions' 1977 work at UNSW, *A Commentary on the Sixth Edition
 UNIX Operating System*, and its foundational role in operating systems
 education, open systems culture, and global software engineering.
 
-To ensure our submission package to the IEEE History Committee is historically watertight and backed by primary evidence, they are seeking specific assistance from the TUHS community.
+To ensure their submission package to the IEEE History Committee is historically watertight and backed by primary evidence, they are seeking specific assistance from the TUHS community.
 
 Please see [Paul's original e-mail](pauls_email.md) for what he is looking for.
 Add links and/or details of resources to this document and issue a pull request
