@@ -64,6 +64,17 @@ Paul asks for: _Primary copies or scans of 1977-1978 correspondence between Bell
 
 Paul asks for: _Primary documentation or recollections regarding early samizdat distribution timelines at international universities (e.g. early Berkeley CS 162 syllabi, UK/European Unix groups, or Japanese translation initiatives prior to the 1998 ASCII release)._
 
+wkt: Page 64 of [AUUGN-V05.6.pdf](https://www.tuhs.org/Archive/Documentation/AUUGN/AUUGN-V05.6.pdf) has this comment by David Tilbrook at the
+1984 European UNIX System User Group Meeting:
+
+> "I don't want to embarrass people by asking: who has an illegal copy of John Lions' book? But when I put out the advanced notice saying The much-xeroxed John Lions I got an enthusiastic response. It was a remarkable book, we owe him a lot, and we would like to give him a small token of our appreciation in lieu of royalties." The present was a pint beer mug bearing the arms of John's college, engraved with To John Lions, in appreciation from the EUUG, Cambridge, September 1984.
+
+wkt: Not sure how relevant this is, but in 1994 I OCR'd the Commentary,
+marked it up in LaTeX and published it to the `alt.folklore.computers`
+newsgroup. Copies of the work can be found on
+[Greg Lehey's website](http://www.lemis.com/grog/Documentation/Lions/).
+
+
 ## 6. Supporting Statements & Endorsements
 
 Paul asks for: _Short supporting statements or endorsement letters from Unix pioneers, early AUUG founders, or academics who used the *Commentary* in university courses during the 1970s-1990s to attach to the official IEEE History Committee submission package._
