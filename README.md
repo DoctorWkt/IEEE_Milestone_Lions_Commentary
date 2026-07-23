@@ -22,6 +22,15 @@ at [https://www.tuhs.org/Archive/Distributions/UNSW/](https://www.tuhs.org/Archi
 wkt: Table of contents of all the above UNSW files are now
 [here](UNSW_Tapes/unsw_tapes.txt).
 
+wkt: [Tape 1](https://www.tuhs.org/Archive/Distributions/UNSW/1/) has
+`unswbatch/submit.c` dated 1977-03-20 06:34.
+
+wkt: [Tape 4/record0.tar.gz](https://www.tuhs.org/Archive/Distributions/UNSW/4/)
+has a `doc/ausam` directory dated 1978-11-23.
+
+wkt: I couldn't find anything named `give` on the tape images.
+
+
 ## 2. Verification of 1977 Physical Artifacts
 
 Paul asks: _We have access to physical copies of the Third Printing of both volumes  *Source Code* (in its original pink cover) and *Commentary* (in its original orange cover), both dated 1977. We would welcome community confirmation that these UNSW Third Printing volumes constitute sufficient primary physical evidence for the 1977 Lions books in the IEEE dossier._
