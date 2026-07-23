@@ -19,6 +19,9 @@ Paul asks: _Has anyone inspected the file trees of the `UNSW/88` or `UNSW/106` d
 wkt: Copies of the tapes that Paul refers to can be found in the Unix Archive
 at [https://www.tuhs.org/Archive/Distributions/UNSW/](https://www.tuhs.org/Archive/Distributions/UNSW/).
 
+wkt: Table of contents of all the above UNSW files are now
+[here](UNSW_Tapes/unsw_tapes.txt).
+
 ## 2. Verification of 1977 Physical Artifacts
 
 Paul asks: _We have access to physical copies of the Third Printing of both volumes  *Source Code* (in its original pink cover) and *Commentary* (in its original orange cover), both dated 1977. We would welcome community confirmation that these UNSW Third Printing volumes constitute sufficient primary physical evidence for the 1977 Lions books in the IEEE dossier._
