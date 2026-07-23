@@ -14,9 +14,23 @@ so that it can be merged with the version on Github.
 
 ## 1. UNSW Tape Archive Verification (`UNSW/88` & `UNSW/106`)
 
+wkt: Copies of the tapes that Paul refers to can be found in the Unix Archive
+at [https://www.tuhs.org/Archive/Distributions/UNSW/](https://www.tuhs.org/Archive/Distributions/UNSW/).
+
 ## 2. Verification of 1977 Physical Artifacts
 
+wkt: I have physical copies of both Lions' volumes. I need to dig them out
+and determine the date of printing.
+
 ## 3. 1994-1998 PUPS / SCO / P2P Archival Records
+
+### Toomey/Schultz/Dion Johnson $100 Ancient UNIX licence campaign
+
+The on-going status of the license campaign, with dates, is
+[here](https://minnie.tuhs.org/PUPS/pstatus.html).
+
+The petition sent to SCO, with all e-mail addresses, is
+[here](https://minnie.tuhs.org/PUPS/petition.html)
 
 ## 4. Western Electric / AT&T Licensing Memos (1977-1978)
 
